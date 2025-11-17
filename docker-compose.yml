@@ -2,7 +2,7 @@ services:
   postgres:
     restart: always
     image: postgres:latest
-    container_name: next15-template-postgres
+    container_name: dr-agenda
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: password
