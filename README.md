@@ -13,7 +13,7 @@
 
 <p align="center">
   <br>
-  <img width="900" src="./assets/next14.png" alt="logo of Next14 repository">
+  <img width="900" src="./assets/next14.png" alt="logo of Next15 repository">
   <br>
   <br>
 </p>
@@ -35,6 +35,16 @@ This is a robust template for **Next.js 15** projects, pre-configured with a mod
 - **Component Documentation:** [Storybook](https://storybook.js.org/)
 - **Code Quality:** [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/)
 - **Standardized Commits:** [Commitizen](https://commitizen-tools.github.io/commitizen/), [Commitlint](https://commitlint.js.org/) & [Husky](https://typicode.github.io/husky/)
+
+---
+
+## 🌿 Branches
+
+This project has multiple branches to showcase different database configurations:
+
+- **`master`**: The main branch, configured with **Prisma ORM**.
+- **`Aleydon`**: A development branch, also configured with **Prisma ORM**.
+- **`Drizzle`**: This branch is configured with **Drizzle ORM**.
 
 ---
 
